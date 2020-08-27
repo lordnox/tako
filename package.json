@@ -14,6 +14,6 @@
   { "filed":">= 0.0.6"
   , "mapleTree":"*"
   }
-, "devDependencies": { "request": "2.9.x" }
+, "devDependencies": { "request": "2.88.x" }
 , "scripts": { "test": "node tests/run.js" }
 }
